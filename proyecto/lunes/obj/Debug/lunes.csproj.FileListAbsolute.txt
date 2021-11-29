@@ -1,0 +1,44 @@
+C:\Users\j_jes\Desktop\Programacion orientada a objetos\lunes\lunes\bin\Debug\lunes.exe.config
+C:\Users\j_jes\Desktop\Programacion orientada a objetos\lunes\lunes\bin\Debug\lunes.exe
+C:\Users\j_jes\Desktop\Programacion orientada a objetos\lunes\lunes\bin\Debug\lunes.pdb
+C:\Users\j_jes\Desktop\Programacion orientada a objetos\lunes\lunes\obj\Debug\lunes.csprojResolveAssemblyReference.cache
+C:\Users\j_jes\Desktop\Programacion orientada a objetos\lunes\lunes\obj\Debug\lunes.Form1.resources
+C:\Users\j_jes\Desktop\Programacion orientada a objetos\lunes\lunes\obj\Debug\lunes.Msn.resources
+C:\Users\j_jes\Desktop\Programacion orientada a objetos\lunes\lunes\obj\Debug\lunes.Properties.Resources.resources
+C:\Users\j_jes\Desktop\Programacion orientada a objetos\lunes\lunes\obj\Debug\lunes.csproj.GenerateResource.Cache
+C:\Users\j_jes\Desktop\Programacion orientada a objetos\lunes\lunes\obj\Debug\lunes.exe
+C:\Users\j_jes\Desktop\Programacion orientada a objetos\lunes\lunes\obj\Debug\lunes.pdb
+C:\Users\MarthaAlicia\Documents\Visual Studio 2015\Projects\lunes\lunes\bin\Debug\lunes.exe.config
+C:\Users\MarthaAlicia\Documents\Visual Studio 2015\Projects\lunes\lunes\obj\Debug\lunes.exe
+C:\Users\MarthaAlicia\Documents\Visual Studio 2015\Projects\lunes\lunes\obj\Debug\lunes.pdb
+C:\Users\MarthaAlicia\Documents\Visual Studio 2015\Projects\lunes\lunes\obj\Debug\lunes.csprojResolveAssemblyReference.cache
+C:\Users\MarthaAlicia\Documents\Visual Studio 2015\Projects\lunes\lunes\obj\Debug\lunes.Form1.resources
+C:\Users\MarthaAlicia\Documents\Visual Studio 2015\Projects\lunes\lunes\obj\Debug\lunes.Msn.resources
+C:\Users\MarthaAlicia\Documents\Visual Studio 2015\Projects\lunes\lunes\obj\Debug\lunes.Properties.Resources.resources
+C:\Users\MarthaAlicia\Documents\Visual Studio 2015\Projects\lunes\lunes\obj\Debug\lunes.csproj.GenerateResource.Cache
+C:\Users\MarthaAlicia\Documents\Visual Studio 2015\Projects\lunes\lunes\bin\Debug\lunes.exe
+C:\Users\MarthaAlicia\Documents\Visual Studio 2015\Projects\lunes\lunes\bin\Debug\lunes.pdb
+C:\Users\MarthaAlicia\Desktop\lunes\lunes\bin\Debug\lunes.exe.config
+C:\Users\MarthaAlicia\Desktop\lunes\lunes\obj\Debug\lunes.exe
+C:\Users\MarthaAlicia\Desktop\lunes\lunes\obj\Debug\lunes.pdb
+C:\Users\MarthaAlicia\Desktop\lunes\lunes\obj\Debug\lunes.csprojResolveAssemblyReference.cache
+C:\Users\MarthaAlicia\Desktop\lunes\lunes\obj\Debug\lunes.Msn.resources
+C:\Users\MarthaAlicia\Desktop\lunes\lunes\obj\Debug\lunes.Properties.Resources.resources
+C:\Users\MarthaAlicia\Desktop\lunes\lunes\obj\Debug\lunes.csproj.GenerateResource.Cache
+C:\Users\MarthaAlicia\Desktop\lunes\lunes\bin\Debug\lunes.exe
+C:\Users\MarthaAlicia\Desktop\lunes\lunes\bin\Debug\lunes.pdb
+C:\Users\MarthaAlicia\Desktop\lunes\lunes\obj\Debug\lunes.Agregar_Client.resources
+C:\Users\MarthaAlicia\Desktop\lunes\lunes\obj\Debug\lunes.Ingresar.resources
+C:\Users\MarthaAlicia\Desktop\lunes\lunes\obj\Debug\lunes.Kioxxo.resources
+C:\Users\MarthaAlicia\Desktop\proyecto\lunes\bin\Debug\lunes.exe.config
+C:\Users\MarthaAlicia\Desktop\proyecto\lunes\obj\Debug\lunes.exe
+C:\Users\MarthaAlicia\Desktop\proyecto\lunes\obj\Debug\lunes.pdb
+C:\Users\MarthaAlicia\Desktop\proyecto\lunes\bin\Debug\lunes.exe
+C:\Users\MarthaAlicia\Desktop\proyecto\lunes\bin\Debug\lunes.pdb
+C:\Users\MarthaAlicia\Desktop\proyecto\lunes\obj\Debug\lunes.csprojResolveAssemblyReference.cache
+C:\Users\MarthaAlicia\Desktop\proyecto\lunes\obj\Debug\lunes.Agregar_Client.resources
+C:\Users\MarthaAlicia\Desktop\proyecto\lunes\obj\Debug\lunes.Ingresar.resources
+C:\Users\MarthaAlicia\Desktop\proyecto\lunes\obj\Debug\lunes.Kioxxo.resources
+C:\Users\MarthaAlicia\Desktop\proyecto\lunes\obj\Debug\lunes.Msn.resources
+C:\Users\MarthaAlicia\Desktop\proyecto\lunes\obj\Debug\lunes.Properties.Resources.resources
+C:\Users\MarthaAlicia\Desktop\proyecto\lunes\obj\Debug\lunes.csproj.GenerateResource.Cache
